@@ -1,6 +1,6 @@
 # Poetry Creator
 
-A simple web app that allows users to enter their ideas and generates a poem based on those ideas. The poem is typed out using a typewriter effect. The app is built with HTML, CSS, JavaScript, jQuery, and the TypewriterJS library.
+A simple web app that allows users to enter their ideas and generates a poem based on those ideas. The poem is typed out using a typewriter effect. The app is built with HTML, CSS, JavaScript, jQuery, and the TypewriterJS library. It uses a PHP backend that communicates with the OpenAI endpoint and the user interface using JSON in POST data.
 
 ![Poetry Creator Preview](poetry-preview.png)
 
